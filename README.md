@@ -7,9 +7,9 @@ I am a passionate Machine Learning enthusiast currently working as an ML intern 
 ## Tech Stack
 
 ### Languages
-<img src="https://www.svgrepo.com/svg/452091/python" alt="python" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/svg/452183/cpp" alt="cpp" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/svg/374093/sql" alt="sql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> 
 
 ### Frameworks and Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
