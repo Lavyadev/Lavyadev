@@ -3,7 +3,7 @@
 ## About Me
 
 - 💻 I'm a Computer Science Engineering student in my third year.
-- 🌱 Currently learning Python, machine learning, deep learning, SQL, and Data Structures and Algorithms (DSA) in C++.
+- 🌱 Currently learning Machine learning, deep learning and Data Structures and Algorithms (DSA) in C++.
 - 🔍 Ex-intern at Codsoft, worked on various machine learning projects.
 - 👾 Working on contributing to Google Summer of Code (GSoC) 2025.
 - 🧠 Passionate about AI, data science, and innovative tech solutions.
