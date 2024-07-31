@@ -11,8 +11,8 @@
 
 ## Projects
 
-### Movie Genre Prediction
-![Movie Genre Prediction](https://your-image-link.com/movie-genre.png)
+### Movie Genre Predictionhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kunalgupta4595%2Fpredicting-movie-genres-based-on-plot-summaries-bae646e70e04&psig=AOvVaw2a0a93RjygcDc2F-sMJQ_Y&ust=1722539369772000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD-67D90YcDFQAAAAAdAAAAABAE
+![Movie Genre Prediction]()
 Predicting the genre of a movie based on its plot summary using techniques like TF-IDF and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
 
 ### Customer Churn Prediction
