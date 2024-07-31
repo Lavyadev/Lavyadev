@@ -1,4 +1,4 @@
-# Hi there, I'm Lavyadev! 👋
+# Hi there, I'm Lavya! 👋
 
 ![Profile Banner](https://your-image-link.com/banner.png)
 
