@@ -1,47 +1,72 @@
-# Hi there, I'm Lavya! 👋
+# Hi there, I'm Lavyadev! 👋
+
+![Profile Banner](https://your-image-link.com/banner.png)
 
 ## About Me
 
-I am a passionate Machine Learning enthusiast currently working as an ML intern at Codsoft. My interests lie in developing AI models, exploring new technologies, and contributing to open-source projects. I aim to participate in GSoC 2025, leveraging my skills in Python, machine learning, and deep learning.
-
-## Tech Stack
-
-### Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> 
-
-### Frameworks and Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- 💻 I'm a Computer Science Engineering student in my third year.
+- 🌱 Currently learning Python, machine learning, deep learning, SQL, and Data Structures and Algorithms (DSA) in C++.
+- 🔍 Intern at Codsoft, working on various machine learning projects.
+- 👾 Working on contributing to Google Summer of Code (GSoC) 2025.
+- 🧠 Passionate about AI, data science, and innovative tech solutions.
+- 📫 Reach me at [your-email@example.com](mailto:your-email@example.com).
 
 ## Projects
 
-### [Movie Genre Prediction](https://github.com/lavyadev/movie-genre-prediction)
-A machine learning model to predict movie genres based on plot summaries using TF-IDF and classifiers such as Naive Bayes and Logistic Regression.
+### Movie Genre Prediction
+![Movie Genre Prediction](https://your-image-link.com/movie-genre.png)
+Predicting the genre of a movie based on its plot summary using techniques like TF-IDF and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
 
-### [Spam SMS Detection](https://github.com/lavyadev/spam-sms-detection)
-An AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF with Naive Bayes and Logistic Regression.
+### Customer Churn Prediction
+![Customer Churn Prediction](https://your-image-link.com/customer-churn.png)
+Developed a model to predict customer churn for a subscription-based service using historical customer data, including features like usage behavior and customer demographics, experimenting with Logistic Regression, Random Forests, and Gradient Boosting.
 
-### [Customer Churn Prediction](https://github.com/lavyadev/customer-churn-prediction)
-A model to predict customer churn for a subscription-based service using Logistic Regression, Random Forests, and Gradient Boosting based on customer usage behavior and demographics.
+### Spam SMS Detection
+![Spam SMS Detection](https://your-image-link.com/spam-sms.png)
+Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines.
 
-## Connect with Me
+## Skills
 
-- [LinkedIn](https://www.linkedin.com/in/lavyadev)
-- [Email](mailto:lavya@example.com)
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Libraries
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![STL](https://img.shields.io/badge/-STL-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### DevOps & Cloud
+![DevOps](https://img.shields.io/badge/-DevOps-0A66C2?style=flat-square&logo=devops&logoColor=white)
+![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### Data Structures and Algorithms
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Areas of Interest
+- Machine Learning
+- Deep Learning
+- Data Science
 
 ## GitHub Stats
+![Lavyadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavyadev&show_icons=true&theme=radical)
 
-![Lavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavyadev&show_icons=true&theme=radical)
-
-
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
