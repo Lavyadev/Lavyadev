@@ -1,15 +1,13 @@
 # Hi there, I'm Lavya! 👋
 
-![Profile Banner](https://your-image-link.com/banner.png)
-
 ## About Me
 
 - 💻 I'm a Computer Science Engineering student in my third year.
 - 🌱 Currently learning Python, machine learning, deep learning, SQL, and Data Structures and Algorithms (DSA) in C++.
-- 🔍 Intern at Codsoft, working on various machine learning projects.
+- 🔍 Ex-intern at Codsoft, worked on various machine learning projects.
 - 👾 Working on contributing to Google Summer of Code (GSoC) 2025.
 - 🧠 Passionate about AI, data science, and innovative tech solutions.
-- 📫 Reach me at [your-email@example.com](mailto:your-email@example.com).
+- 📫 Reach me at [lavyadevs@gmail.com](mailto:lavyadevs@gmail.com).
 
 ## Projects
 
