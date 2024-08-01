@@ -14,11 +14,10 @@
 ### [Movie Genre Prediction](https://github.com/Lavyadev/CODSOFT/tree/16ec299d8a55a783a08ba5486a3792db619581a9/MOVIE%20GENRE%20CLAASIFICATION)
 Predicting the genre of a movie based on its plot summary using techniques like TF-IDF and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
 
-### Customer Churn Prediction (https://your-image-link.com/customer-churn.png)
+### [Customer Churn Prediction](https://github.com/Lavyadev/CODSOFT/tree/16ec299d8a55a783a08ba5486a3792db619581a9/CUSTOMER%20CHURN%20PREDICTION)
 Developed a model to predict customer churn for a subscription-based service using historical customer data, including features like usage behavior and customer demographics, experimenting with Logistic Regression, Random Forests, and Gradient Boosting.
 
-### Spam SMS Detection
-![Spam SMS Detection](https://your-image-link.com/spam-sms.png)
+### [Spam SMS Detection](https://github.com/Lavyadev/CODSOFT/tree/16ec299d8a55a783a08ba5486a3792db619581a9/SPAM%20SMS%20DETECTION)
 Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines.
 
 ## Skills
