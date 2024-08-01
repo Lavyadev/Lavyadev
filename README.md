@@ -25,10 +25,10 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 ### Languages
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="96" height="96"/>
-  <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="96" height="96"/>
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="96" height="96"/>
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="96" height="96"/>
   <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL" width="96" height="96"/>
+  <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="96" height="96"/>
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="96" height="96"/>
 </div>
 
 ### Libraries
