@@ -55,7 +55,7 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 ### DevOps & Cloud
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://www.logo.wine/a/logo/DevOps/DevOps-Logo.wine.svg" alt="DevOps" width="96" height="96"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvithujan.medium.com%2Fmy-devops-workflow-d75f227bcf98&psig=AOvVaw05uHJD9n-Qa0WA0jwzef6n&ust=1722560463279000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjO4vjL0ocDFQAAAAAdAAAAABAJ" alt="DevOps" width="96" height="96"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3304/3304987.png" alt="Cloud Computing" width="96" height="96"/>
 </div>
 
