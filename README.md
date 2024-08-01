@@ -63,7 +63,8 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 - Data Science
 
 ## GitHub Stats
-![Lavyadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavyadev&show_icons=true&theme=radical)
+![Lavyadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavyadev&show_icons=true&theme=radical
+)
 
 ## Connect with Me
 <div style="display: flex; justify-content: space-around; align-items: center;">
