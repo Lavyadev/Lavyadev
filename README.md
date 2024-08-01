@@ -23,35 +23,51 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 ## Skills
 
 ### Languages
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/> 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/>
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="60" height="60"/>
+</p>
 
 ### Libraries
-<img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/> 
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40"/> 
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/> 
-<img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="STL" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="60" height="60"/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="60" height="60"/>
+</p>
+<p align="center">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="60" height="60"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="STL" width="60" height="60"/>
+</p>
 
 ### Tools
-<img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> 
-<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/> 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="60" height="60"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="60" height="60"/>
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="60" height="60"/>
+</p>
 
 ### DevOps & Cloud
-<img src="https://img.icons8.com/color/48/000000/devops.png" alt="DevOps" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud" width="40" height="40"/> 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/devops.png" alt="DevOps" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud" width="60" height="60"/>
+</p>
 
 ### Data Structures and Algorithms
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/>
+</p>
 
 ### Areas of Interest
 - Machine Learning
@@ -62,6 +78,8 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 ![Lavyadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavyadev&show_icons=true&theme=radical)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="60" height="60"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="60" height="60"/></a>
+</p>
