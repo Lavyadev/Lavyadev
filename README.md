@@ -33,7 +33,7 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 
 ### Libraries
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://img.icons8.com/color/96/000000/scikit-learn.png" alt="Scikit-learn" width="96" height="96"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="96" height="96"/>
   <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="Pandas" width="96" height="96"/>
   <img src="https://img.icons8.com/color/96/000000/numpy.png" alt="NumPy" width="96" height="96"/>
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="96" height="96"/>
