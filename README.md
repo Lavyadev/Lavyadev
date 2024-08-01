@@ -44,7 +44,7 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 
 ### Tools
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://img.icons8.com/color/96/000000/jupyter.png" alt="Jupyter" width="96" height="96"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/2560px-Jupyter_logo.svg.png" alt="Jupyter" width="96" height="96"/>
   <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="96" height="96"/>
   <img src="https://img.icons8.com/fluent/96/000000/github.png" alt="GitHub" width="96" height="96"/>
   <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker" width="96" height="96"/>
@@ -55,7 +55,7 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 ### DevOps & Cloud
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://img.icons8.com/color/96/000000/devops.png" alt="DevOps" width="96" height="96"/>
-  <img src="https://img.icons8.com/color/96/000000/cloud-computing.png" alt="Cloud" width="96" height="96"/>
+  <img src="https://img.icons8.com/color/96/000000/cloud-computing.png" alt="Cloud Computing" width="96" height="96"/>
 </div>
 
 ### Data Structures and Algorithms
