@@ -64,7 +64,6 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 
 ## Connect with Me
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="96" height="96"/></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter" width="96" height="96"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="96" height="96"/></a>
+  <a href="https://www.linkedin.com/in/lavya-631aba249/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="96" height="96"/></a>
+  <a href="mailto:lavyadevs@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="96" height="96"/></a>
 </div>
