@@ -60,6 +60,7 @@ Built an AI model to classify SMS messages as spam or legitimate using TF-IDF or
 - Machine Learning
 - Deep Learning
 - Data Science
+- Software Development
 
 ## Connect with Me
 <div style="display: flex; justify-content: space-around; align-items: center;">
